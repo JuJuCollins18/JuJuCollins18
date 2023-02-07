@@ -7,6 +7,7 @@ Software Enthusiast
 I've been learning to code for about 3-4 years, and found automation to be the constant that always has my attention.
 
 *   🌍  I'm based in Orange, California
+*   ✉️  You can contact me at [collinsjulius@hotmail.com](mailto:collinsjulius@hotmail.com)
 *   🧠  I'm learning Swift, SwiftUI, and always looking to learn new things in Python.
 *   ⚡  Overall, my goal in this life is to have the opportunity to work with teams that assist in the creation and release of reliable software or hardware that will enrich the lives of all of those who choose to use it, and continue to enrich lives while I'm no longer here.### Skills 
 <p align="left">
