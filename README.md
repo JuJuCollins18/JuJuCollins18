@@ -9,7 +9,7 @@ I've been learning to code for about 3-4 years, and found automation to be the c
 *   🌍  I'm based in Orange, California
 *   ✉️  You can contact me at [collinsjulius@hotmail.com](mailto:collinsjulius@hotmail.com)
 *   🧠  I'm learning Swift, SwiftUI, and always looking to learn new things in Python.
-*   ⚡  Overall, my goal in this life is to be part of teams that assist in the creation and release of reliable software or hardware that will enrich the lives of all of those who choose to use it, and continue to enrich lives while I'm no longer here.### Skills 
+*   ⚡  Overall, my goal in this life is to have the opportunity to work with teams that assist in the creation and release of reliable software or hardware that will enrich the lives of all of those who choose to use it, and continue to enrich lives while I'm no longer here.### Skills 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
