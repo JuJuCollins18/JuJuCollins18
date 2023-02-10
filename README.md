@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Enthusiast
 -------------------
 
-I've been learning to code for about 3-4 years, and found automation to be the constant that always has my attention.
+I've been learning to code for about 4-5 years, and found a passion for automation using Python.
 
 *   🌍  I'm based in Orange, California
 *   ✉️  You can contact me at [collinsjulius@hotmail.com](mailto:collinsjulius@hotmail.com)
